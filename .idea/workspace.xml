@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81f19cb2-a592-4599-af71-ff8ac1b940dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1/models/Model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1/models/list_note.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1/presenters/Presenter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1/views/View.py" afterDir="false" />
+    <list default="true" id="81f19cb2-a592-4599-af71-ff8ac1b940dc" name="Changes" comment="add_task_1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1690034205127</updated>
     </task>
+    <task id="LOCAL-00001" summary="add_task_1">
+      <created>1690062830595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690062830595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add_task_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add_task_1" />
   </component>
 </project>
